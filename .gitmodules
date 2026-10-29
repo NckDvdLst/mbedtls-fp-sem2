@@ -1,0 +1,6 @@
+[submodule "framework"]
+	path = framework
+	url = https://github.com/Mbed-TLS/mbedtls-framework
+[submodule "3rdparty/mlkem/mlkem-native"]
+	path = 3rdparty/mlkem/mlkem-native
+	url = git@github.com:pq-code-package/mlkem-native.git
